@@ -13,7 +13,7 @@ The two variables I am interesting are the Average working hour per month and th
 
 # Overview
 #### Sample Data scatter plot:
-![Alt text](/image/graph1.1.png "Optional Title")
+![Alt text](/Gradient_Descent_Coding_Challenge/images/graph1.1.png "Optional Title")
 #### Initial error value at b=0 and m=0: 0.4373780052
 
 #### After gradient descent
