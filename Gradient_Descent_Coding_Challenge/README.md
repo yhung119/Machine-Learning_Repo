@@ -12,20 +12,33 @@ The dataset I chose from Kaggle is the [Human Resources Analytics](https://www.k
 The two variables I am interesting are the Average working hour per month and the satisfactory level of the employees.
 
 # Overview
+Note: the plots below has 
+
+x-axis : Average working hour per month
+
+y-axis : Satisfactory Level 
 #### Sample Data scatter plot:
+b=0 and m=0: 0.4373780052
+
 ![Alt text](/Gradient_Descent_Coding_Challenge/images/graph1.1.png "Optional Title")
-#### Initial error value at b=0 and m=0: 0.4373780052
 
 #### After gradient descent
-##### Error Value: 0.0845320879693
+
+Error Value: 0.0845320879693
+
 ##### Plot:
+![Alt text](/Gradient_Descent_Coding_Challenge/images/graph1.2.png "Optional Title")
 
-#### Initial error value at b=1 and m=-0.001: 0.0984485869725
 ##### Sample plot
+b=1 and m=-0.001: 0.0984485869725
+
+![Alt text](/Gradient_Descent_Coding_Challenge/images/graph2.1.png "Optional Title")
 
 #### After gradient descent
-##### Error value: 0.0694402235026
+
+Error value: 0.0694402235026
 ##### Plot
+![Alt text](/Gradient_Descent_Coding_Challenge/images/graph2.2.png "Optional Title")
 
 # Comments
 ### Vecotrized Gradient Descent
