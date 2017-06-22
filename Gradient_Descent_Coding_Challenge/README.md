@@ -7,13 +7,13 @@ The code is for the Coding Challenge posted by Siraj on Youtube. (Intro to Math 
 Find the best line fit of two variable using self-coded Gradient Descent.
 
 # Dataset
-The dataset I chose from Kaggle is the Human Resources Analytics.
+The dataset I chose from Kaggle is the [Human Resources Analytics](https://www.kaggle.com/ludobenistant/hr-analytics).
 
 The two variables I am interesting are the Average working hour per month and the satisfactory level of the employees.
 
 # Overview
 #### Sample Data scatter plot:
-
+![Alt text](/image/graph1.1.png?raw=true "Optional Title")
 #### Initial error value at b=0 and m=0: 0.4373780052
 
 #### After gradient descent
